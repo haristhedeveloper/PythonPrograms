@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Access the API key
-groq_api_key = os.getenv("api")
+groq_api_key = os.getenv("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")
 
 # Now you can use the API key in your requests
 from groq import Groq
